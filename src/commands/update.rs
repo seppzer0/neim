@@ -1,4 +1,5 @@
 use std::path::PathBuf;
+
 use crate::Mode;
 
 pub struct UpdateCommand {
